@@ -1,0 +1,30 @@
+{
+    "workbench.colorTheme":"Dracula",
+    "editor.fontSize":14,
+    "editor.lineHeight":22,
+    "editor.fontFamily":"Fira Code",
+    "terminal.integrated.fontFamily": "DroidSansMono Nerd Font",
+    "editor.fontLigatures":true,
+    "editor.rulers": [
+        80,
+        120
+    ],
+    "editor.renderLineHighlight":"gutter",
+    "terminal.integrated.fontSize":14,
+    "workbench.iconTheme":"material-icon-theme",
+    "workbench.colorCustomizations": {
+        "editorBracketHighlight.foreground1": "#ff6ceb",
+        "editorBracketHighlight.foreground2": "#bd93f9",
+        "editorBracketHighlight.foreground3": "#8be9fd",
+        "editorBracketHighlight.foreground4": "#f1fa8c",
+        "editorBracketHighlight.foreground5": "#50fa7b",
+        "editorBracketHighlight.foreground6": "#abb2c0",
+        "editorBracketHighlight.unexpectedBracket.foreground": "#ff5555"
+    },
+    "material-icon-theme.languages.associations" : {
+        "dotenv" : "tune"
+    },
+    "material-ui-snippets.showNotesOnStartup": false,
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+}
